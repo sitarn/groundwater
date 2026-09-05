@@ -1,6 +1,6 @@
 (intro)=
 # Zone of Capture Analysis
 
-_This is the first page the student will see when opening the url._
+_ A tutorial _
 
-This is an introduction to the basics of zone of capture analysis and includes a code for steady-state analysis
+This is an introduction to the basics of zone of capture analysis. The theoretical basis for a steady-state analytical solution is first introduced and then an interactive code for simple simulation of the zone of capture is made available for exploration of the concepts.

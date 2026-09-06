@@ -9,10 +9,10 @@ parts:
     style: numerical                # Default value (line can be removed), style of numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     restart_numbering: false        # Default value (line can be removed), whether to restart numbering for this part, configuration part of TeachBooks' version of sphinx-external-toc (https://github.com/TeachBooks/sphinx-external-toc?tab=readme-ov-file#toc-tree-options)
     chapters:
-    - file: some_content/01-Introduction.md
+    - file: Zone_of_Capture_Analysis/01-Introduction.md
       sections:
-      - file: some_content/02-General_solution.md
-      - file: some_content/03-Implementation.ipynb
+      - file: Zone_of_Capture_Analysis/02-General_solution.md
+      - file: Zone_of_Capture_Analysis/03-Implementation.ipynb
   - caption: Exercises
     chapters:
     - file: exercises.md

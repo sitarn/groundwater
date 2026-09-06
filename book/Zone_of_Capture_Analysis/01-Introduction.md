@@ -5,7 +5,7 @@ $2y=\frac{Q}{iKb}$.
 The diagram below shows the concept. Note that in the diagram the x-axis is parallel to the direction of flow and y-axis is orthogonal to the direction of flow. This convention makes the solution very simple for a problem with a single well, as shown in the Figure. 
 ```{figure} ../figures/Zone_of_Capture.jpg
 ---
-scale:55%
+scale:45%
 align: center
 ---
 Zone of Capture Illustration

@@ -18,4 +18,4 @@ pylab
 scipy.special
 scipy
 matplotlib.backends.backend_pdf 
-mpl_toolkits.mplot3d
+from mpl_toolkits.mplot3d import Axes3D

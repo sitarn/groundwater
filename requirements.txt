@@ -6,10 +6,8 @@ git+https://github.com/TeachBooks/TeachBooks-Favourites
 matplotlib
 numpy
 plotly
-pandas
-mpld3   
+pandas  
 pylab
-scipy.special
 scipy
 math.pi
 math.log

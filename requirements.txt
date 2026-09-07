@@ -5,7 +5,6 @@ teachbooks # depends on jupyter-book v1
 git+https://github.com/TeachBooks/TeachBooks-Favourites
 matplotlib
 numpy
-math
 plotly
 pandas
 mpld3   

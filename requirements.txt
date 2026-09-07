@@ -18,4 +18,4 @@ pylab
 scipy.special
 scipy
 matplotlib.backends.backend_pdf 
-mpl_toolkits.mplot3d import
+mpl_toolkits.mplot3d

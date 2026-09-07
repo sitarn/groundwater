@@ -5,16 +5,10 @@ teachbooks # depends on jupyter-book v1
 git+https://github.com/TeachBooks/TeachBooks-Favourites
 matplotlib
 numpy
-matplotlib.cm
-matplotlib.mlab
-matplotlib.pyplot
 math
 plotly
-plotly.offline
-plotly.graph_objs
 pandas
 mpld3   
 pylab
 scipy.special
 scipy
-matplotlib.backends.backend_pdf 

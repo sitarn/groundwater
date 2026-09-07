@@ -7,7 +7,6 @@ matplotlib
 numpy
 plotly
 pandas  
-pylab
 scipy
 math.pi
 math.log

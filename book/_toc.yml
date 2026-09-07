@@ -12,7 +12,8 @@ parts:
     - file: Zone_of_Capture_Analysis/01-Introduction.md
       sections:
       - file: Zone_of_Capture_Analysis/02-General_solution.md
-      - file: Zone_of_Capture_Analysis/03-Implementation.ipynb
+      - file: Zone_of_Capture_Analysis/03-Zone_of_Capture_-_Steady_State_-_Contours.ipynb
+      - file: Zone_of_Capture_Analysis/04-Implementation.ipynb
   - caption: Exercises
     chapters:
     - file: exercises.md

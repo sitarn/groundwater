@@ -7,3 +7,11 @@ where c is the offset based on the initial boundary head and $ln r= ln \sqrt{(x-
 The equivalent solution for the head distribution in an unconfined aquifer is then given by
 
 $ℎ^2(𝑥,𝑦)=𝑖(𝑥𝑐𝑜𝑠𝜃+𝑦𝑠𝑖𝑛𝜃)+\frac{1}{{2\pi}𝐾} \sum_{𝑖=1}^{𝑛}𝑄_𝑖 ln\sqrt{[(x-x_i)^2+ (y-y_i)^2]}+𝑐$
+
+```{figure} ../figures/Zone_of_capture_in_a_uniform_flow_field.jpg
+---
+scale:45%
+align: center
+---
+Zone of Capture in a Uniform Flow Field
+```

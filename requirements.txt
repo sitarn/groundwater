@@ -12,3 +12,5 @@ mpld3
 pylab
 scipy.special
 scipy
+math.pi
+math.log

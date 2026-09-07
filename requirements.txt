@@ -18,4 +18,3 @@ pylab
 scipy.special
 scipy
 matplotlib.backends.backend_pdf 
-mpl_toolkits

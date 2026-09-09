@@ -11,4 +11,4 @@ align: center
 Zone of Capture Illustration
 ```
 The final item is the stagnation point, which is the point at which the gradient is exactly zero downgradient from the well as shown in the figure. The expression to compute the distance of this point downgradient is:
-$x_{L}=-\frac{Q}{2{\pi}Kbi}$ 
+$x_{L}=-\frac{Q}{2{\pi}Kbi}$. The position of the flow line marking the divide between the flow bypassing the well and the flow line captured by the well is given by $y=-xtan(\frac{2{\pi}Kbi}{Q})$.
